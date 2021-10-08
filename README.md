@@ -1,4 +1,4 @@
-# Magic-8-Ball
+# Magic 8 Ball
 
 ![alt text](https://github.com/MrKai77/Magic-8-Ball/blob/main/Magic-8-ball-screenshot.png)
 
